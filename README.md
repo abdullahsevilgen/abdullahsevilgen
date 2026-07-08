@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdullah sevilgen</h1>
+<h1 align="center">Merhaba ben Abdullah sevilgen</h1>
 <h3 align="center">Bilgisayar mühendisliği 2. sınıf öğrencisi</h3>
 
-- 🌱 I’m currently learning **Şuan fullstack ve yapay zeka alanında kendimi geliştiriyorum**
+- Şuanda kendimi **fullstack ve yapay zeka alanında kendimi geliştiriyorum**
 
-- 📫 How to reach me **sevilgenabdullah55@gmail.com**
+- Bana mail adresimden ulaşabilirsiniz **sevilgenabdullah55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
